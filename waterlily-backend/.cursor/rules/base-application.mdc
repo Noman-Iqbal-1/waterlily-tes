@@ -1,0 +1,37 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+## **Project Context**
+The application you'll build is a simplified version of our **user intake form system**. An essential element of the Waterlily product is collecting the **demographic, health, and financial information** used in our machine learning model to predict a person’s long-term care needs and costs.
+
+
+## **Survey App Requirements**
+
+### **Frontend (Survey Interface)**
+
+A survey form with:
+
+- Question title
+- Question description
+- Input fields for user responses
+- Submit button to complete the survey
+- Post-submission review: Allow users to view their submitted responses
+
+### **Backend**
+Implement any necessary backend functionality to support the survey interface (e.g., API endpoints, database storage)
+
+
+## **Potential Improvements**
+
+If you have extra time, consider enhancing this application with the features you think might be the most impactful and explain why. The following list are a few suggestions, you are free to implement these or your own improvements.  **Please** **provide a rationale for your choice(s)**.
+
+- User Authentication (e.g., sign-in, session management)
+- Enhanced Survey UX:
+- Single-question display format
+- Navigation between questions (Next/Previous)
+- Progress indicator
+- Form Validation (e.g., required fields, input constraints)
+- Responsive Design & UI Improvements
+When choosing additional features explain why you focused on them over others. We’re interested in your ability to make trade-offs and justify decisions given the time constraints.
